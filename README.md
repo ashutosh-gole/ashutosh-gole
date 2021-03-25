@@ -1,4 +1,4 @@
-- ### 🇻🇳Hi there 👋
+- ### 👋 Hi there 👋
 **Nice to meet you!**
 
 My name is Ashutosh and I love programming 😁

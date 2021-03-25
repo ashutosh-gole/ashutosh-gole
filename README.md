@@ -12,7 +12,7 @@ I am an software engineer. I have been working in software industry since I was 
 **I Worked with:**
 - Angular(JS, 8+)
 - NodeJS
-- 
+
 **My public sites:**
 - CV: 
 - Blog: 

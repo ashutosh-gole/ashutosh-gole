@@ -5,8 +5,8 @@ My name is Ashutosh and I love programming 😁
 
 I am an software engineer. I have been working in software industry since I was a Junior Student. (My experiences ~4 years)
 
-Currently. I'm a Web (Angular, NodeJS, JS) Developer.
-- 🌱 I’m currently learning Unix Operating System
+🌱 Currently. I'm a Web (Angular, NodeJS, JS) Developer.
+🌱 I’m currently learning Unix Operating System
 <hr>
 
 **I Worked with:**
